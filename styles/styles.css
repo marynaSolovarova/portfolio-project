@@ -1,0 +1,14 @@
+/*font-family: 'DM Serif Display', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;*/
+
+h1 {
+color: black;
+font-weight: bold;
+font-family: 'Playfair Display', serif;;
+}
+
+p{
+    font-weight: normal;
+    font-family: 'Poppins', sans-serif;
+}
